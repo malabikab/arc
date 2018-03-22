@@ -26,7 +26,36 @@ li a {
 
 li a:hover {
     background-color: black;
+	
 }
+
+.vertical-menu {
+    width: 200px;
+}
+
+.vertical-menu a {
+    background-color: magenta;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-color: red;
+}
+
+.vertical-menu a:hover {
+    background-color: white;
+}
+
+.vertical-menu a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+
+
+
+
+
 
 body{
 	background-image:url("../img/bubble.jpg");
