@@ -69,9 +69,8 @@ input:hover{
 
 footer {
     clear: both;
-    position: relative;
-    z-index: 10;
+    position: fixed;
+	bottom: 0;
     height: 3em;
-    margin-top: -3em;
+	color: red;
 }
-
