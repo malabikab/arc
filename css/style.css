@@ -34,7 +34,7 @@ li a:hover {
 }
 
 .vertical-menu a {
-    background-color: magenta;
+    background-color:#ffffcc;
     color: black;
     display: block;
     padding: 12px;
@@ -104,5 +104,26 @@ footer {
 	color: red;
 	text-align:center;
 	width: 100%;
+}
+
+
+.fheader{
+	font-family:helvetica;
+	font-size:40px;
+	font-color:black;
+	font-weight:bold;
+}
+
+.fbold{
+	font-family:helvetica;
+	font-size:15px;
+	font-color:black;
+	font-weight:bold;
+}
+
+.about{
+	width:70%;
+	position: relative;
+	margin: auto;
 }
 
